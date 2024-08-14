@@ -1,0 +1,16 @@
+{
+  "name": "gemini-video-demo",
+  "version": "1.0.0",
+  "main": "process.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.17.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "ora": "^8.0.1"
+  },
+  "type": "module"
+}
