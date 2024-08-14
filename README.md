@@ -2,6 +2,13 @@
 
 This project demonstrates how to use Google's Gemini AI to analyze video content using Node.js.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/0ad75d61-c1c0-4d84-84f6-e073e147345f
+
+
+
 ## Prerequisites
 
 - Node.js (version 14 or higher recommended)
